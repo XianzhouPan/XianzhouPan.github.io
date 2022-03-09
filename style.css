@@ -1,0 +1,16 @@
+footer{ height: 50px;
+    line-height: 50px;
+    background: #4169E1;
+    margin-top: -50px;
+    
+}
+
+
+body{
+     background: #4169E1;
+    }
+    
+
+.container{
+    width: 85%;
+}
